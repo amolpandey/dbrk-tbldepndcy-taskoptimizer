@@ -112,6 +112,6 @@ Sigma(tr, node_size=g.degree, node_color='category')
 
 # Summary
 
-This codebase is an illustration of how we can optimize the workflows in the databricks eco-system. But this methdology is not limited to databricks, if we can obtain dependency task list in Airflow, SQL server jobs, Snowflake and more. 
+This codebase demonstrates how we can optimize workflows within the Databricks ecosystem. However, this methodology is not limited to Databricks. If we can obtain the dependency task list in Airflow, SQL Server jobs, Snowflake, and more, the same optimization can be applied.
 
-The transitive reuction would greatly help us to optimize & simplify the workflow for operational benefits.
+Transitive reduction would significantly help us optimize and simplify the workflow for operational benefits.
